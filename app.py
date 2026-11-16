@@ -9,7 +9,7 @@ Open:
 """
 
 from http.server import HTTPServer, BaseHTTPRequestHandler
-from urllib.parse import parse_qs, urlparse
+from urllib.parse import parse_qs, urlparseewwww
 import sqlite3
 import html
 from datetime import datetime
